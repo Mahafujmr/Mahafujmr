@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/md-mahafujur-rahman-tuhin-1ba269246/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+   <a href="https://medium.com/@tuhinmahafuj">
+    <img src="https://img.shields.io/badge/medium-purple?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
   </a>
    <a href="https://fb.com/aaxiftaj">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
