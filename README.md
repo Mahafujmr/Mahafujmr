@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
    <a href="https://medium.com/@tuhinmahafuj">
-    <img src="https://img.shields.io/badge/medium-purple?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
+    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
   </a>
    <a href="https://fb.com/aaxiftaj">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
