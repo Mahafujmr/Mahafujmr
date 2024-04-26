@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,github,git,postman,eclipse,figma,gitlab,gmail,html,idea,java,linkedin,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,github,git,postman,eclipse,figma,gitlab,gmail,html,idea,java,linkedin,&perline=5)](https://skillicons.dev)
 
 ![M R Tuhin GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahafujmr&show_icons=true&theme=dark)
 
