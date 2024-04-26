@@ -12,7 +12,7 @@
   <a href="https://github.com/Mahafujmr">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="[https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw](https://www.linkedin.com/in/md-mahafujur-rahman-tuhin-1ba269246/)">
+  <a href="https://www.linkedin.com/in/md-mahafujur-rahman-tuhin-1ba269246/">
     <img src="https://img.shields.io/badge/linkedin-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
    <a href="https://www.instagram.com/axif_taj">
