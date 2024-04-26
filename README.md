@@ -18,8 +18,8 @@
    <a href="https://medium.com/@tuhinmahafuj">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   <a href="https://www.quora.com/profile/Md-Mahafujur-Rahman-Tuhin">
+    <img src="https://img.shields.io/badge/quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="quora Badge"/>
   </a>
    <a href="https://twitter.com/axiftaj">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
