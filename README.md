@@ -18,9 +18,7 @@
    <a href="https://medium.com/@tuhinmahafuj">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium Badge"/>
   </a>
-   <a href="https://www.quora.com/profile/Md-Mahafujur-Rahman-Tuhin">
-    <img src="https://img.shields.io/badge/quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="quora Badge"/>
-  </a>
+   
    <a href="https://www.youtube.com/@techhoopbd1214">
     <img src="https://img.shields.io/badge/youtube-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube Badge"/>
   </a>
