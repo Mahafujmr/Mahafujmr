@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm [M R Tuhin]</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working on Content Writing
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me anything about Flutter
 - 📫 How to reach me: tuhinmahafuj555@gmail.com
 - 😄 My website: https://medium.com/@tuhinmahafuj
 - ⚡ Fun fact: I'm comming to teen
