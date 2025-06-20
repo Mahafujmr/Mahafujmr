@@ -10,6 +10,14 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 
 Skills: Flutter & Dart / Learning REST APIs / UI/UX Design Basics /GetX State Management (learning) / 
 
+## 🛠️ Tech Stack
+
+- **Languages:** Dart, C Programme (Basic)  
+- **Frameworks:** Flutter  
+- **Tools & Platforms:** Android Studio, VS Code, Firebase, Figma, IntelliJ IDEA , Github 
+- **Concepts:** RESTful APIs, State Management (Getx), Responsive UI Design
+
+
 - 🔭 I’m currently working on  designing clean and user-friendly mobile app interfaces using Flutter 
 - 🌱 I’m currently learning Improving skills in Flutter development. 
 - 👯 I’m looking to collaborate on GitHub projects to improve my coding skills. 
