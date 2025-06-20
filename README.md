@@ -10,6 +10,12 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 
 Skills: Flutter & Dart / Learning REST APIs / UI/UX Design Basics /GetX State Management (learning) / 
 
+- 🔭 I’m currently working on  designing clean and user-friendly mobile app interfaces using Flutter 
+- 🌱 I’m currently learning Improving skills in Flutter development. 
+- 👯 I’m looking to collaborate on GitHub projects to improve my coding skills. 
+- 📫 How to reach me: tuhinmahafuj555@gmail.com 
+- ⚡ Fun fact: I’m always curious to try new tech tools and frameworks. 
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Dart, C Programme (Basic)  
@@ -18,11 +24,6 @@ Skills: Flutter & Dart / Learning REST APIs / UI/UX Design Basics /GetX State Ma
 - **Concepts:** RESTful APIs, State Management (Getx), Responsive UI Design
 
 
-- 🔭 I’m currently working on  designing clean and user-friendly mobile app interfaces using Flutter 
-- 🌱 I’m currently learning Improving skills in Flutter development. 
-- 👯 I’m looking to collaborate on GitHub projects to improve my coding skills. 
-- 📫 How to reach me: tuhinmahafuj555@gmail.com 
-- ⚡ Fun fact: I’m always curious to try new tech tools and frameworks. 
 
 ## 📫 Connect with Me
 
