@@ -15,7 +15,7 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 - ⚡ Fun fact: I’m always curious to try new tech tools and frameworks.
 
 ## 👨‍💻 Skills & Experiance:
- Skills: Flutter & Dart | Learning REST APIs | UI/UX Design Basics |GetX State Management (learning) |
+  Flutter & Dart | Learning REST APIs | UI/UX Design Basics |GetX State Management (learning) |
 
 ## 🛠️ Tech Stack
 
