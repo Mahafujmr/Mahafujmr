@@ -1,6 +1,8 @@
+![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/main/Github%20banner.png?raw=true)
+
 ### Hi there 👋, I'm Md . Tuhin Hossain
 #### |Passionate about Flutter & Mobile Apps | Tech Enthusiast | 
-![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/main/Github%20banner.png?raw=true)
+
 
 Hi! I'm Md Tuhin Hossain, an aspiring software engineer with a passion for mobile app development. Currently, I'm learning Flutter and Dart to build clean, efficient, and user-friendly applications.
 I’m deeply interested in UI/UX design, Firebase integration, and working with REST APIs. My goal is to grow into a skilled software engineer who creates impactful software solutions.
