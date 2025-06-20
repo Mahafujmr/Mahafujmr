@@ -40,5 +40,5 @@ Skills: Flutter & Dart / Learning REST APIs / UI/UX Design Basics /GetX State Ma
 
 [![Top Langs](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahafujmr&show_icons=true&count_private=true)  
+ 
 
