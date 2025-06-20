@@ -34,7 +34,6 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 - 🔗 GitHub: [My Github Profile](https://github.com/Mahafujmr)
 
 
-
 <p align="left">
   <!-- 🌐 Website -->
   <a href="https://md-mahafujur-rahman-tuhin.netlify.app/" target="_blank">
@@ -53,11 +52,8 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 </p>
 
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,c,idea,notion,=5)](https://skillicons.dev)
-
-
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahafujmr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mr-tuhin-learning/)  
