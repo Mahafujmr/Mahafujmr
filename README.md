@@ -8,14 +8,14 @@ Hi! I'm Md Tuhin Hossain, an aspiring software engineer with a passion for mobil
 I’m deeply interested in UI/UX design, Firebase integration, and working with REST APIs. My goal is to grow into a skilled software engineer who creates impactful software solutions.
 💡 Dedicated to continuous learning, problem-solving, and turning ideas into real-world apps.
 
-## 👨‍💻 Skills & Experiance:
- Skills: Flutter & Dart | Learning REST APIs | UI/UX Design Basics |GetX State Management (learning) |
-
 - 🔭 I’m currently working on  designing clean and user-friendly mobile app interfaces using Flutter 
 - 🌱 I’m currently learning Improving skills in Flutter development. 
 - 👯 I’m looking to collaborate on GitHub projects to improve my coding skills. 
 - 📫 How to reach me: tuhinmahafuj555@gmail.com 
-- ⚡ Fun fact: I’m always curious to try new tech tools and frameworks. 
+- ⚡ Fun fact: I’m always curious to try new tech tools and frameworks.
+
+## 👨‍💻 Skills & Experiance:
+ Skills: Flutter & Dart | Learning REST APIs | UI/UX Design Basics |GetX State Management (learning) |
 
 ## 🛠️ Tech Stack
 
