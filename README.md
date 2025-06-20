@@ -27,10 +27,10 @@ Skills: Flutter & Dart / Learning REST APIs / UI/UX Design Basics /GetX State Ma
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: [your-portfolio-link.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mr-tuhin-learning/)  
-- 💌 Email: your.email@example.com  
-- 🔗 GitHub: [github.com/your-username](https://github.com/Mahafujmr)
+- 🌐 Portfolio: [My Portfolio](https://md-mahafujur-rahman-tuhin.netlify.app/)
+- 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mr-tuhin-learning/)  
+- 💌 Email: tuhinmahafuj555@gmail.com  
+- 🔗 GitHub: [My Github Profile](https://github.com/Mahafujmr)
 
 
 
