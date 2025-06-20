@@ -1,8 +1,6 @@
-![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://raw.githubusercontent.com/Mahafujmr/Profile_Home_page/refs/heads/master/Github%20banner.png?token=GHSAT0AAAAAADCS4I2RR6HU4L6CU6SADXCO2CVS6HA)
-
 ### Hi there 👋, I'm Md . Tuhin Hossain
 #### |Passionate about Flutter & Mobile Apps | Tech Enthusiast | 
-
+![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://raw.githubusercontent.com/Mahafujmr/Profile_Home_page/refs/heads/master/Github%20banner.png?token=GHSAT0AAAAAADCS4I2RR6HU4L6CU6SADXCO2CVS6HA)
 
 Hi! I'm Md Tuhin Hossain, an aspiring software engineer with a passion for mobile app development. Currently, I'm learning Flutter and Dart to build clean, efficient, and user-friendly applications.
 
@@ -26,6 +24,4 @@ Skills: Flutter & Dart / Learning REST APIs / UI/UX Design Basics /GetX State Ma
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahafujmr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahafujmr&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahafujmr)  
 
