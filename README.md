@@ -14,16 +14,32 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 - 📫 How to reach me: tuhinmahafuj555@gmail.com 
 - ⚡ Fun fact: I’m always curious to try new tech tools and frameworks.
 
+
 ## 👨‍💻 Skills & Experiance:
   Flutter & Dart | Learning REST APIs | UI/UX Design Basics |GetX State Management (learning) |
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Dart, C Programme (Basic)  
-- **Frameworks:** Flutter  
-- **Tools & Platforms:** Android Studio, VS Code, Firebase, Figma, IntelliJ IDEA , Github 
-- **Concepts:** RESTful APIs, State Management (Getx), Responsive UI Design
+- **🔹 Languages:** Dart, C Programme (Basic)  
+- **🔹 Frameworks:** Flutter  
+- **🔹 Tools & Platforms:** Android Studio, VS Code, Firebase, Figma, IntelliJ IDEA , Github 
+- **🔹 Concepts:** RESTful APIs, State Management (Getx), Responsive UI Design
 
+  
+## 📂 Projects
+
+### 1. Currency Converter App  
+> A functional app using Flutter and REST API to convert currencies.  
+🔗 GitHub: [View Project](https://github.com/Mahafujmr/currency-converter-app)
+
+### 2. Bill Payment App (UI Only)  
+> A modern and responsive UI designed using Flutter.  
+🔗 GitHub: [View Project](https://github.com/Mahafujmr/Bill_Payment_App_Ui)
+
+### 3. Event Booking App (UI Only)  
+> UI design for an event booking platform created with Flutter.  
+🔗 GitHub: [View Project](https://github.com/Mahafujmr/Event_Booking_App_UI)
+  
 
 
 ## 📫 Connect with Me
