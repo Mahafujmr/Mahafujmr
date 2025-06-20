@@ -16,6 +16,14 @@ Skills: Flutter & Dart / Learning REST APIs / UI/UX Design Basics /GetX State Ma
 - 📫 How to reach me: tuhinmahafuj555@gmail.com 
 - ⚡ Fun fact: I’m always curious to try new tech tools and frameworks. 
 
+## 📫 Connect with Me
+
+- 🌐 Portfolio: [your-portfolio-link.com]  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mr-tuhin-learning/)  
+- 💌 Email: your.email@example.com  
+- 🔗 GitHub: [github.com/your-username](https://github.com/Mahafujmr)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahafujmr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mr-tuhin-learning/)  
 
