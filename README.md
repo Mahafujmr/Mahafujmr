@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/18de38c3-5680-46d8-8fcc-8649c9855ae1)![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/main/Github%20banner.png?raw=true)
+![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/main/Github%20banner.png?raw=true)
 
 ### Hi there 👋, I'm Md . Tuhin Hossain
 #### | Passionate about Flutter & Mobile Apps | Tech Enthusiast | 
