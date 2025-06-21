@@ -1,4 +1,4 @@
-![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/main/Github%20banner.png?raw=true)
+![image](https://github.com/user-attachments/assets/18de38c3-5680-46d8-8fcc-8649c9855ae1)![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/main/Github%20banner.png?raw=true)
 
 ### Hi there 👋, I'm Md . Tuhin Hossain
 #### | Passionate about Flutter & Mobile Apps | Tech Enthusiast | 
@@ -91,8 +91,14 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahafujmr&show_icons=true&count_private=true&bg_color=64B5F6&title_color=000000&icon_color=1565C0&text_color=000000)
 
+/// cv
+
+### 📄 Download My CV
+
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mahafujmr/Mahafujmr/blob/2772a46262b53fe3c7e76a8c03e66bf8a4d7e3bd/Md.%20Tuhin%20Hossain%20Cv.pdf)
 
 
+[![Download CV](https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/Mahafujmr/Mahafujmr/raw/main/Mahafujmr_CV.pdf)
 
 
 
