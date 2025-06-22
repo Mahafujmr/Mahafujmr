@@ -45,9 +45,10 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 ## 📫 Connect with Me
 
 - 🌐 Portfolio: [My Portfolio](https://md-mahafujur-rahman-tuhin.netlify.app/)
-- 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mr-tuhin-learning/)  
-- 💌 Email: tuhinmahafuj555@gmail.com  
+- 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mr-tuhin-learning/)
 - 🔗 Medium: [My Medium Profile](https://medium.com/@tuhinmahafuj)
+- 💌 Email: tuhinmahafuj555@gmail.com  
+
 
 
 <p align="left">
