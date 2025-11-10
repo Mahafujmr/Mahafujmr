@@ -1,4 +1,4 @@
-![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/main/Github%20banner.png?raw=true)
+![|Passionate about Flutter & Mobile Apps | Tech Enthusiast | ](https://github.com/Mahafujmr/Mahafujmr/blob/2f9dec810f42838245dc432a60a40d6b729cd47e/github.png)
 
 ### Hi there 👋, I'm Md . Tuhin Hossain
 #### | Passionate about Flutter & Mobile Apps | Tech Enthusiast | 
@@ -48,7 +48,7 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 - 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mr-tuhin-learning/)
 - 🔗 Medium: [My Medium Profile](https://medium.com/@tuhinmahafuj)
 - 🔗 Dev.to: [Dev.to Profile](https://dev.to/m_rtuhin)
-- 💌 Email: tuhinmahafuj555@gmail.com  
+- 💌 Email: tuhinhossain.inbox@gmail.com  
 
 
 
