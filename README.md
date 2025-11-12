@@ -11,7 +11,7 @@ I’m deeply interested in UI/UX design, Firebase integration, and working with 
 - 🔭 I’m currently working on  designing clean and user-friendly mobile app interfaces using Flutter 
 - 🌱 I’m currently learning Improving skills in Flutter development. 
 - 👯 I’m looking to collaborate on GitHub projects to improve my coding skills. 
-- 📫 How to reach me: tuhinmahafuj555@gmail.com 
+- 📫 How to reach me: tuhinhossain.inbox@gmail.com 
 - ⚡ Fun fact: I’m always curious to try new tech tools and frameworks.
 
 
