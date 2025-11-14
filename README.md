@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Md . Tuhin Hossain
 #### | Passionate about Flutter & Mobile Apps | Tech Enthusiast | 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Flutter+Dev+%7C+Full+Flutter+Dev+%7C+UI/UX+Enthusiast+%7C+Mobile+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F794EF&center=true&vCenter=true&width=435&lines=Hi There+I'm Md.Tuhin Hossain+%7C+Full+Flutter+Dev+%7C+UI/UX+Enthusiast+%7C+Mobile+Craftsman" alt="Typing SVG" />
 </h3>
 
 
